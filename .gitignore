@@ -8,6 +8,9 @@
 
 # Node
 /node_modules
+hello-world/node_modules
+test/projects/my-lib/node_modules
+**/node_modules
 npm-debug.log
 yarn-error.log
 
